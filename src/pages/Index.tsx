@@ -1,5 +1,5 @@
 
-import { MessageCircle, Star, Calendar, Robot, ChartBar } from "lucide-react";
+import { MessageCircle, Star, Calendar, Bot, ChartBar } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const Index = () => {
@@ -196,7 +196,7 @@ const Index = () => {
 
 const features = [
   {
-    icon: Robot,
+    icon: Bot,
     title: "AI-Powered Automation",
     description:
       "Let AI handle routine guest inquiries with personalized, context-aware responses available 24/7.",
